@@ -1,0 +1,119 @@
+div {
+    color: white;
+    width: 100px;
+    padding: 15px;
+}
+
+
+.one {
+    background-color: red;
+    position: relative;
+    left: 50px;
+    bottom: 5px;
+}
+
+.two {
+    background-color:green;
+    /* opacity: 0.5; */
+}
+
+
+
+
+
+
+
+
+/* body  {
+    margin: 0;
+} */
+
+/* div {
+    text-align: center;
+    background-color: #eee;
+    display: inline-block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    float: left ;
+    width: calc((100% - 96px)/5);
+    margin-left: 16px;
+}  */
+
+
+ 
+/* .parent div {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    background-color: #eee;
+    display: inline-block;
+    width: 25%;
+    float: left ; */
+
+    
+    /* font-size: 2em; */
+    /* text-align: center; */
+    /* padding: 20px; */
+    /* font-size: 20px; */
+    /* background: rgb(215, 210, 210) ; */
+    /* text-overflow: ellipsis ; */
+    /* border: 2px solid rgb(138, 82, 82); */
+    /* word-break: break-word; */
+    /* border: 2px solid black ; */
+    /* text-transform: capitalize;
+    letter-spacing: 1px;
+    text-indent: 20px;
+    line-height: 1.6;
+    word-spacing: 10px; */
+
+/* } */
+
+/* div p {
+    border: inherit;
+    padding: inherit;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+div:hover {
+    background-color: wheat;
+    color: black;
+} */
+    
+
+    /* text-shadow: 2px 1px 1px rgb(255 0 0); */
+    /* width: 150px;
+    height: 150px;
+     color: red; */
+     /* padding: 10px; */
+     /* overflow-x: auto;
+     overflow-y : auto;
+    border-radius: 6px;
+     margin: 20px auto; */
+      /* color: green;
+     padding: 20px;
+     /* border-bottom: 2px solid red; */
+   /* background-image: url("download.jpeg");
+    background-repeat: no-repeat; */
+    /* background-attachment: fixed; */
+    /* background-position: center bottom; */
+    /* background-size:100% 100% ; */
+     /* padding: 10px 30px 15px 20px;  */
+     /* padding: 10px;
+     width: 80%;
+     margin-left: auto;
+     margin-right: auto;
+     border: 2px dashed red;
+     border-radius:  20px;
+     outline: 2px solid black; */
